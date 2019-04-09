@@ -5,3 +5,5 @@ Example Angular app for CRUD operations using local storage for persistence
 1. Download/Clone the project from github
 2. Install nodeJS and AngularCLI
 3. Run ng serve command on project folder
+
+CURRENTLY DEPLOYED AT: https://baratilha.github.io/
